@@ -1,0 +1,9 @@
+.card {
+  padding: 2em;
+  display: flex;
+  flex-direction: column;
+}
+
+.error {
+  color: rgb(223, 70, 70);
+}
